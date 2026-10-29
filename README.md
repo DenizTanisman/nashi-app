@@ -1,3 +1,5 @@
+> **Source:** This repository is a fork of [orkunisitmak/nashi-app](https://github.com/orkunisitmak/nashi-app) by Orkun Işıtmak and Nashi contributors. It is distributed under the original [LICENSE](LICENSE). All credit for the original work belongs to the upstream authors.
+
 <p align="center"><img src="Resources/Brand/NashiIcon.png" width="128" alt="Nashi"></p>
 <h1 align="center">Nashi</h1>
 <p align="center">Your files, a little sweeter. · Dosyaların için tatlı bir kolaylık.</p>
